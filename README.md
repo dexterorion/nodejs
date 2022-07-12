@@ -1,4 +1,4 @@
-# examples/nodejs
+# test/nodejs
 
 This repository contains an example Node.js app configured for local development and deployment to Convox.
 
